@@ -3,10 +3,10 @@ Hey there! 👋
 
 I'm [Sachin Kumar], a coding enthusiast currently learning DSA (Data Structures & Algorithms) and Development. I enjoy solving problems, building projects, and exploring new technologies.
 
-🔭 Currently working on: Improving my coding skills
-🌱 Learning: DSA & Web Development
-🚀 Exploring: Open-source & side projects
-💬 Let's connect: Always happy to learn and share!
+🔭 Currently working on: Improving my coding skills <br>
+🌱 Learning: DSA & Web Development<br>
+🚀 Exploring: Open-source & side projects<br>
+💬 Let's connect: Always happy to learn and share!<br>
 
 
 ## 🌐 Socials:
