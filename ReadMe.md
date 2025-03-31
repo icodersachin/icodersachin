@@ -19,8 +19,6 @@ I'm [Sachin Kumar], a coding enthusiast currently learning DSA (Data Structures 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=icodersachin&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=icodersachin&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=icodersachin&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
